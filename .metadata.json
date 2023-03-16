@@ -1,0 +1,10 @@
+[
+  {
+    "package": "doc2concrete",
+    "oncran": true
+  },
+  {
+    "package": "politeness",
+    "oncran": true
+  }
+]
