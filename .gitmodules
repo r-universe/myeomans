@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DICEM"]
+	path = DICEM
+	url = https://github.com/myeomans/dicem
 [submodule "doc2concrete"]
 	path = doc2concrete
 	url = https://github.com/myeomans/doc2concrete
